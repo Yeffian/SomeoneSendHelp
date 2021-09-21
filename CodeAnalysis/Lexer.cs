@@ -11,7 +11,7 @@ namespace SomeoneSendHelp
         private string _text;
         private int _position;
         private int _start;
-        private List<Token> _tokens { get; } = new List<Token>();
+        private List<Token> _tokens = new List<Token>();
              
         private void Advance() => _position++;
         private void AddToken(Token t) => _tokens.Add(t);
