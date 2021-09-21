@@ -55,16 +55,10 @@ namespace SomeoneSendHelp
             var length = _position - _start;
             var text = _text.Substring(_start, length);
 
-            Utilities.WriteColor(ConsoleColor.Yellow, $"Number={text}");
-
             int.TryParse(text, out int value);
 
-            Utilities.WriteColor(ConsoleColor.Yellow, $"ParsedNumber={value}");
 
-            Token tok = new Token(TokenTypes.NumberToken, value, value.ToString());
-            Utilities.WriteColor(ConsoleColor.Yellow, tok);
-
-            return tok;
+            return new Token(TokenTypes.NumberToken, value, value.ToString());
         }
 
         private Token MakeToken()
