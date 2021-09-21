@@ -1,0 +1,16 @@
+C:\Users\aditc\source\repos\SomeoneSendHelp\bin\Debug\net5.0\SomeoneSendHelp.exe
+C:\Users\aditc\source\repos\SomeoneSendHelp\bin\Debug\net5.0\SomeoneSendHelp.deps.json
+C:\Users\aditc\source\repos\SomeoneSendHelp\bin\Debug\net5.0\SomeoneSendHelp.runtimeconfig.json
+C:\Users\aditc\source\repos\SomeoneSendHelp\bin\Debug\net5.0\SomeoneSendHelp.runtimeconfig.dev.json
+C:\Users\aditc\source\repos\SomeoneSendHelp\bin\Debug\net5.0\SomeoneSendHelp.dll
+C:\Users\aditc\source\repos\SomeoneSendHelp\bin\Debug\net5.0\ref\SomeoneSendHelp.dll
+C:\Users\aditc\source\repos\SomeoneSendHelp\bin\Debug\net5.0\SomeoneSendHelp.pdb
+C:\Users\aditc\source\repos\SomeoneSendHelp\obj\Debug\net5.0\SomeoneSendHelp.csproj.AssemblyReference.cache
+C:\Users\aditc\source\repos\SomeoneSendHelp\obj\Debug\net5.0\SomeoneSendHelp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aditc\source\repos\SomeoneSendHelp\obj\Debug\net5.0\SomeoneSendHelp.AssemblyInfoInputs.cache
+C:\Users\aditc\source\repos\SomeoneSendHelp\obj\Debug\net5.0\SomeoneSendHelp.AssemblyInfo.cs
+C:\Users\aditc\source\repos\SomeoneSendHelp\obj\Debug\net5.0\SomeoneSendHelp.csproj.CoreCompileInputs.cache
+C:\Users\aditc\source\repos\SomeoneSendHelp\obj\Debug\net5.0\SomeoneSendHelp.dll
+C:\Users\aditc\source\repos\SomeoneSendHelp\obj\Debug\net5.0\ref\SomeoneSendHelp.dll
+C:\Users\aditc\source\repos\SomeoneSendHelp\obj\Debug\net5.0\SomeoneSendHelp.pdb
+C:\Users\aditc\source\repos\SomeoneSendHelp\obj\Debug\net5.0\SomeoneSendHelp.genruntimeconfig.cache
